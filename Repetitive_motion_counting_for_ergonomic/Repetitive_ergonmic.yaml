@@ -1,0 +1,30 @@
+dataset_name: Repetitivepose
+train_split: ['train']
+test_split: ['test']
+dataset: {
+  dataset_root_dir: './Repetitivepose',
+  csv_label_path: 'all_action.csv',
+}
+Repetitive_pose: {
+  seed: 1997,
+  # TODO
+  dim: 105,
+  heads: 15,
+  enc_layer: 6,
+  all_key_points: 105,
+  learning_rate: 0.001,
+  alpha: 0.01
+}
+Mction_trigger: {
+  enter_threshold: 0.85,
+  exit_threshold: 0.2,
+  momentum: 0.76,
+}
+trainer: {
+  max_epochs: 300,
+  auto_lr_find: True,
+  accelerator: 'gpu',
+  devices: 7
+}
+save_ckpt_path: 'new325_6best_weights.pth'
+
