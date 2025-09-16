@@ -3,7 +3,10 @@ demo python inference.py --config ./Repetitive_ergonmic.yaml --pth 6_best_weight
 
 We show the results of counting four different types of actions.
 
-<img width="2003" height="623" alt="图片1" src="https://github.com/user-attachments/assets/f26fa6ce-f44d-43a7-b4ea-c2fc19ce7458" />![1](https://github.com/user-attachments/assets/8196b23b-6426-4568-be87-2c57348c9cc7)
+<img width="2003" height="623" alt="图片1" src="https://github.com/user-attachments/assets/f26fa6ce-f44d-43a7-b4ea-c2fc19ce7458" />
+
+
+![1](https://github.com/user-attachments/assets/8196b23b-6426-4568-be87-2c57348c9cc7)
 
 Demo:
 
@@ -20,7 +23,5 @@ https://github.com/user-attachments/assets/7a567365-a745-4c27-877e-60777fb3fde1
 
 https://github.com/user-attachments/assets/6db74ac2-f0ba-48fa-a235-ed4092f34864
 
-
-![1](https://github.com/user-attachments/assets/daccab5b-56ba-4142-b799-23d001f245d4)
 
 
