@@ -6,6 +6,9 @@ We show the results of counting four different types of actions.
 Demo:
 
 
-https://github.com/user-attachments/assets/e20622bf-1207-4b26-888c-ae71eb5e8cc8
+
+
+https://github.com/user-attachments/assets/6db74ac2-f0ba-48fa-a235-ed4092f34864
+
 
 ![1](https://github.com/user-attachments/assets/daccab5b-56ba-4142-b799-23d001f245d4)
