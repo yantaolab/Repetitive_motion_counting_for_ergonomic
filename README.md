@@ -8,6 +8,12 @@ We show the results of counting four different types of actions.
 
 ![1](https://github.com/user-attachments/assets/8196b23b-6426-4568-be87-2c57348c9cc7)
 
+
+<img width="2646" height="1838" alt="图片2" src="https://github.com/user-attachments/assets/a0547ecd-b534-42ad-b544-0c3a46a7dcf2" />
+<img width="2648" height="1835" alt="图片1" src="https://github.com/user-attachments/assets/bebeaa14-ae77-4a81-be70-a2087136c3ea" />
+<img width="2646" height="1835" alt="图片3" src="https://github.com/user-attachments/assets/a2195beb-15a7-4bf1-a70a-eb019ac931a0" />
+
+
 Demo:
 
 
@@ -22,6 +28,4 @@ https://github.com/user-attachments/assets/7a567365-a745-4c27-877e-60777fb3fde1
 
 
 https://github.com/user-attachments/assets/6db74ac2-f0ba-48fa-a235-ed4092f34864
-
-
 
